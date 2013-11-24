@@ -1,4 +1,4 @@
-Smileway-VMW
+Vietnamese Most Wanted (VMW)
 ============
 
-Vietnamese Most Wanted
+This project help find missing Vietnamease People.
